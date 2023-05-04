@@ -12,3 +12,5 @@ if not os.path.exists(dir):
 else:
     print("Dir exists")
     os.rmdir(dir)
+
+print("Hello Python")
